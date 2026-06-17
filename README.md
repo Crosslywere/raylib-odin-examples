@@ -12,3 +12,4 @@ Learning odin-lang and raylib by implementing raylib examples in odin-lang
   - [x] [input keys](./examples/core/03_input_keys.odin)
   - [x] [input mouse](./examples/core/04_input_mouse.odin)
   - [x] [input mouse wheel](./examples/core/05_input_mouse_wheel.odin)
+  - [x] [input gamepad](./examples/core/06_input_gamepad.odin)
