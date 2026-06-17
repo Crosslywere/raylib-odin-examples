@@ -10,3 +10,4 @@ Learning odin-lang and raylib by implementing raylib examples in odin-lang
   - [x] [basic window](examples/core/01_basic_window.odin)
   - [x] [delta time](./examples/core/02_delta_time.odin)
   - [x] [input keys](./examples/core/03_input_keys.odin)
+  - [x] [input mouse](./examples/core/04_input_mouse.odin)
