@@ -7,5 +7,6 @@ main :: proc() {
 //    core.delta_time()
 //    core.input_keys()
 //    core.input_mouse()
-    core.input_mouse_wheel()
+//    core.input_mouse_wheel()
+    core.input_gamepad()
 }
