@@ -22,11 +22,12 @@ input_gestures :: proc() {
     currentGesture : raylib.Gestures
     lastGesture : raylib.Gestures
 
-    //raylib.SetGesturesEnabled({}) // Enable only some gestures to be detected
+    //raylib.SetGesturesEnabled({.TAP}) // Enable only some gestures to be detected
 
     raylib.SetTargetFPS(60)
 
-    for !raylib.WindowShouldClose() {
+    // Main game loop
+    for !raylib.WindowShouldClose() { // Detect window close button or ESC key
         // Update
         lastGesture = currentGesture
         currentGesture = raylib.GetGestureDetected()
