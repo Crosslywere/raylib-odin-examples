@@ -14,3 +14,4 @@ Learning odin-lang and raylib by implementing raylib examples in odin-lang
   - [x] [input mouse wheel](./examples/core/05_input_mouse_wheel.odin)
   - [x] [input gamepad](./examples/core/06_input_gamepad.odin)
   - [x] [input multitouch](./examples/core/07_input_multitouch.odin)
+  - [x] [input gestures](./examples/core/08_input_gestures.odin)
