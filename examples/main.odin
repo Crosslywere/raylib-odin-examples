@@ -8,5 +8,6 @@ main :: proc() {
 //    core.input_keys()
 //    core.input_mouse()
 //    core.input_mouse_wheel()
-    core.input_gamepad()
+//    core.input_gamepad()
+    core.input_multitouch()
 }
